@@ -1,0 +1,18 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+
+# 日志
+*.log
+
+# 打包好的发布包
+dist-upload.zip
+
+# 系统 / 编辑器垃圾
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
